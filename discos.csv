@@ -1,0 +1,25 @@
+id,code,description,minimum_value,maximum_value
+1,AEDC,AEDC Prepaid,800,10000000
+2,Ikeja_Electric_Bill_Payment,Ikeja Electric Bill Payment,500,500000
+3,Ikeja_Token_Purchase,Ikeja Token Purchase,500,500000
+4,Eko_Prepaid,Eko Prepaid,1000,1000000
+5,Eko_Postpaid,Eko_Postpaid,-50,20000000
+6,Ibadan_Disco_Prepaid,Ibadan Disco Prepaid,-99,1000000
+7,Kano_Electricity_Disco,Kano Electricity DISCO,0,1000000000
+8,Kaduna_Electricity_Disco,Kaduna Electricity DISCO,500,1000000
+9,Jos_Disco,Jos Electricity Distribution,1000,5000000
+10,BEDC,BEDC,0,3000000
+11,PhED_Electricity,Port Harcourt Electricity Distribution Prepaid,500,1000000
+12,PH_Disco,Port Harcourt Electricity Distribution Postpaid,900,1000000
+13,Kaduna_Electricity_Disco_Postpaid,Kaduna Electricity Disco Postpaid,900,5000000
+14,AEDC_Postpaid,AEDC Postpaid,0,21000000
+15,Jos_Disco_Postpaid,Jos Electricity Postpaid,1000,10000000
+16,Enugu_Electricity_Distribution_Prepaid,Enugu Electricity Distribution Prepaid,500,15000000
+17,Kano_Electricity_Disco_Postpaid,Kano Electricity Disco Postpaid,0,300000000
+18,Ibadan_Disco_Postpaid,Ibadan Disco Postpaid,-99,10000000
+19,Enugu_Electricity_Distribution_Postpaid,Enugu Electricity Distribution Postpaid,500,15000000
+20,BEDC_Postpaid,BEDC Postpaid,0,3000000
+21,Aba_Power_Prepaid,Aba Power Prepaid,900,15000000
+22,Aba_Power_Postpaid,Aba Power Postpaid,900,15000000
+23,YEDC,YEDC,0,3000000
+24,YEDC_Postpaid,YEDC Postpaid,0,3000000

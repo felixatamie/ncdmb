@@ -1,0 +1,91 @@
+Id,bouquet_name,amount,product_key,product_key2,product_key3,bouquet_category
+1339,Premium,44500,PRWE36,0,0,DSTV
+1349,"Compact Plus",30000,COMPLE36,0,0,DSTV
+1359,"Compact ",19000,COMPE36,0,0,DSTV
+1369,Confam,11000,NNJ2E36,0,0,DSTV
+1379,Yanga,6000,NNJ1E36,0,0,DSTV
+1389,Padi,4400,NLTESE36,0,0,DSTV
+1399,Asian,14900,ASIAE36,0,0,DSTV
+1409,"Premium +Xtraview",23900,"PRWE36 + Xtraview Access",0,0,DSTV
+1419,"PremiumAsia ",50500,PRWASIE36,0,0,DSTV
+1429,"Premiumasia +Xtraview",56500,"PRWASIE36 + HDPVRE36",0,0,DSTV
+1439,"Premium + French",69000,"PRWFRNSE36 ",0,0,DSTV
+1449,"Premium + French + Xtraview",75000,"PRWFRNSE36 + HDPVRE36",0,0,DSTV
+1459,"CompactPlus + Asia ",44900,"COMPLE36 + ASIADDE36",0,0,DSTV
+1469,"CompactPlus + Asia +Xtraview",50900,"COMPLE36 + ASIADDE36 + HDPVRE36",0,0,DSTV
+1479,"CompactPlus + French Touch",37000,"COMPLE36 + FRN7E36",0,0,DSTV
+1489,"CompactPlus + French Plus",23550,"COMPLE36 + FRN15E36",0,0,DSTV
+1499,"CompactPlus + French Plus +Xtraview",50500,"COMPLE36 + FRN15E36 + HDPVRE36",0,0,DSTV
+1519,"Compact + Asia",33900,"COMPE36 + ASIADDE36",0,0,DSTV
+1529,"Compact + French Touch",11650,"COMPE36 +FRN7E36",0,0,DSTV
+1539,"Compact +Xtraview",25000,"COMPE36 + HDPVRE36",0,0,DSTV
+1549,"Compact + French Touch +Xtraview",26500,"COMPE36 + FRN7E36 + HDPVRE36",0,0,DSTV
+1569,"Compact + French Plus ",36200,"COMPE36 + FRN15E36",0,0,DSTV
+1609,"DStv HDPVR Access Service E36",6000,HDPVRE36,0,0,DSTV
+1619,"DStv French Plus Add-on Bouquet E36",24500,FRN15E36,0,0,DSTV
+1629,"DStv Asian Add-on Bouquet E36",14900,ASIADDE36,0,0,DSTV
+1639,"DStv French Touch Add-on Bouquet E36",7000,FRN7E36,0,0,DSTV
+1649,"Xtraview Access",2900,,0,0,DSTV
+1669,"French 11 Bouquet E36",10800,"FRN11E36 ",0,0,DSTV
+1679,"Box Office",800,,0,0,DSTV
+1689,"Box Office (New Premier Price)",1100,,0,0,DSTV
+1699,Supa,11400,GOTVSUPA,0,0,GOTV
+1709,Max,8500,GOTVMAX,0,0,GOTV
+1719,Jolli,5800,GOTVNJ2,0,0,GOTV
+1729,Jinja,3900,GOTVNJ1,0,0,GOTV
+1739,Lite,1575,,0,0,GOTV
+1749,"Lite (Quarterly)",1575,,0,0,GOTV
+1759,"Lite (Annual)",1575,,0,0,GOTV
+1769,"PremiumAsia Showmax",23500,SHOWPRWASIE36,0,0,DSTV
+1779,"PremiumFrench + Showmax",29300,SHOWPRWFRNSE36,0,0,DSTV
+1789,"Premium + Showmax",21000,SHOWPRWE36,0,0,DSTV
+1799,"Asian + Showmax",10000,SHOWASIAE36,0,0,DSTV
+1809,"CompactPlus + Showmax",15700,SHOWCOMPLE36,0,0,DSTV
+1819,"Compact + Showmax",10450,SHOWCOMPE36,0,0,DSTV
+1829,"Confam + Showmax",6750,SHOWNNJ2E36,0,0,DSTV
+1839,"Yanga + Showmax",4400,SHOWNNJ1E36,0,0,DSTV
+1849,"Padi + Showmax",5050,SHOWNLTESE36,0,0,DSTV
+1854,"GOTV Supa Plus",16800,GOTVSUPAPLUS,0,0,DSTV
+1864,"CompactPlus + French 11  Bouquet E36 +Xtraview",39000,"COMPLE36 + FRN11E36 + HDPVRE36",0,0,DStv
+1874,"CompactPlus + French 11  Bouquet E36",40800,"COMPLE36 + FRN11E36",0,0,DStv
+1894,"GOtv Smallie",1900,GOLITE,0,0,DStv
+1904,"GOtv Smallie IP3",5100,GOLITE,0,0,DStv
+1914,"GOtv Smallie IP12",15000,GOLITE,0,0,DStv
+1934,"Stream Yanga",6000,"YANGA OTT",0,0,DStv
+1954,"Stream Compact",19000,"COMPACT OTT",0,0,DStv
+1964,"DStv Stream Compact Plus",30000,"COMPACTPLS OTT",0,0,DStv
+1974,"Stream Premium",44500,"PREMIUM OTT",0,0,DStv
+1984,"Compact + Asia +Xtraview",39900,"COMPE36 + ASIADDE36 + HDPVRE36",,,DStv
+1994,"CompactPlus + Xtraview",36000,"COMPLE36 + HDPVRE36",0,0,DStv
+2014,"Premium W/Afr E36 + Xtraview",50500,"PRWE36 + HDPVRE36",0,0,DStv
+2024,"Prestige Membership",850000,PRESTIGENGE36,0,0,DStv
+2034,"Compact + Xtraview",20700,"COMPE36 +HDPVRE36",0,0,DStv
+2054,"CompactPlus + French 11  Bouquet E36 +Xtraview",39000,"COMPLE36 + FRN11E36 + HDPVRE36",,,DStv
+2094,"Supa Plus Bouquet",13900,GOtvSupaPLS,,,GOtv
+2104,"Stream Yanga",6000,"YANGA OTT",,,DStv
+2114,"DStv Stream Confam",11000,"CONFAM OTT",,,DStv
+2124,"Stream Compact",19000,"COMPACT OTT",,,DStv
+2144,"Stream Premium",44500,"PREMIUM OTT",,,DStv
+2154,"Compact + Asia +Xtraview",39900,"COMPE36 + ASIADDE36 + HDPVRE36",,,DStv
+2164,"CompactPlus + Xtraview",36000,"COMPLE36 + HDPVRE36",,,DStv
+2174,"Compact + Asia +Xtraview",39900,"COMPE36 + ASIADDE36 + HDPVRE36",,,DStv
+2184,"Premium W/Afr E36 + Xtraview",50500,"PRWE36 + HDPVRE36",,,DStv
+2194,"Prestige Membership",850000,PRESTIGENGE36,,,DStv
+2204,"Compact + Xtraview",20700,"COMPE36 +HDPVRE36",,,DStv
+2214,"COMPACTPLS OTT",26750,"COMPACTPLS OTT + Showmax OTT",0,0,DSTV
+2224,"COMPACT OTT ",17450,"COMPACT OTT + Showmax OTT",0,0,DSTV
+2234,"CONFAM OTT",11050,"CONFAM  OTT + Showmax OTT",0,0,DSTV
+2244,"YANGA OTT",6850,"YANGA OTT + Showmax OTT",0,0,DSTV
+2254,"Showmax Standalone",3500,SHOWMAX,0,0,DSTV
+2255,"DStv Confam Bouquet E36 + HDPVR Access Service",17000,"NNJ2E36 + HDPVRE36",,,DStv
+2256,"DStv Yanga Bouquet E36 + HDPVR Access Service",12000,"NNJ1E36 + HDPVRE36",,,DStv
+2257,"DStv Padi Bouquet E36 + HDPVR Access Service",10400,"NLTESE36 + HDPVRE36",,,DStv
+2258,"Great Wall Standalone Bouquet E36",3800,GWALLE36,,,GOtv
+2259,"DStv Compact Plus Bouquet E36 + French Touch Bouqu",43000,"COMPLE36 + FRN7E36 +  HDPVRE36",,,DStv
+2260,"DStv Compact Plus Bouquet E36 + French 11 Bouquet ",46800,"COMPLE36 + FRN11E36 +  HDPVRE36",,,DStv
+2261,"DStv Compact Bouquet E36 + French Touch Bouquet E3",26000,"COMPE36 + FRN7E36",,,DStv
+2262,"DStv Compact Bouquet E36 + French Touch Bouquet E36 + HDPVR Access Service",32000,"COMPE36 + FRN7E36 +  HDPVRE36",,,DStv
+2263,"DStv Compact Bouquet E36 + French 11 Bouquet E36",29800,"COMPE36 + FRN11E36",,,DStv
+2264,"DStv Compact Bouquet E36 + French 11 Bouquet E36 +",35800,"COMPE36 + FRN11E36 +  HDPVRE36",,,DStv
+2265,"DStv MOVIESE36 - Movie Bundle Add-on",3500,MOVIESE36,,,GOtv
+2266,"DStv MOVIESCOMPLE36 - Compact Plus Movie Bundle Ad",3500,MOVIESCOMPLE36,,,GOtv

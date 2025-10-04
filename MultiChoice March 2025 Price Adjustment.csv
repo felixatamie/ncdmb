@@ -1,0 +1,64 @@
+Platform,Product Name,Product Code,New Price
+DStv,DStv Prestige Membership,PRESTIGENGE36,"_850,000"
+DStv,DStv Premium W/Afr E36,PRWE36,"_44,500"
+DStv,DStv Premium W/Afr E36 + HDPVR Access Service,PRWE36 + HDPVRE36,"_50,500"
+DStv,DStv Compact Plus Bouquet E36,COMPLE36 ,"_30,000"
+DStv,DStv Compact Plus Bouquet E36 + HDPVR Access Service,COMPLE36 + HDPVRE36,"_36,000"
+DStv,DStv Compact Bouquet E36,COMPE36,"_19,000"
+DStv,DStv Compact Bouquet E36 + HDPVR Access Service,COMPE36 + HDPVRE36,"_25,000"
+DStv,DStv Confam Bouquet E36,NNJ2E36,"_11,000"
+DStv,DStv Confam Bouquet E36 + HDPVR Access Service,NNJ2E36 + HDPVRE36,"_17,000"
+DStv,DStv Yanga Bouquet E36,NNJ1E36,"_6,000"
+DStv,DStv Yanga Bouquet E36 + HDPVR Access Service,NNJ1E36 + HDPVRE36,"_12,000"
+DStv,DStv Padi Bouquet E36,NLTESE36,"_4,400"
+DStv,DStv Padi Bouquet E36 + HDPVR Access Service,NLTESE36 + HDPVRE36,"_10,400"
+,,,
+,,,
+DStv,DStv Premium W/Afr  E36 + ASIAE36,PRWASIE36,"_50,500"
+DStv,DStv Premium W/Afr  E36 + ASIAE36 + HDPVR Access Service,PRWASIE36 + HDPVRE36,"_56,500"
+DStv,DStv Premium W/Afr + French Bonus Bouquet E36,PRWFRNSE36,"_69,000"
+DStv,DStv Premium W/Afr + French Bonus Bouquet E36 + HDPVR Access Service,PRWFRNSE36 + HDPVRE36,"_75,000"
+DStv,Great Wall Standalone Bouquet E36,GWALLE36,"_3,800"
+,,,
+,,,
+DStv,DStv Compact Plus Bouquet E36 + Asian Add-on Bouquet E36,COMPLE36 + ASIADDE36,"_44,900"
+DStv,DStv Compact Plus Bouquet E36 + Asian Add-on Bouquet E36 + HDPVR Access Service,COMPLE36 + ASIADDE36 + HDPVRE36,"_50,900"
+DStv,DStv Compact Plus Bouquet E36 + French Touch Bouquet E36,COMPLE36 + FRN7E36 ,"_37,000"
+DStv,DStv Compact Plus Bouquet E36 + French Touch Bouquet E36 + HDPVR Access Service,COMPLE36 + FRN7E36 +  HDPVRE36,"_43,000"
+DStv,DStv Compact Plus Bouquet E36 + French 11 Bouquet E36 ,COMPLE36 + FRN11E36,"_40,800"
+DStv,DStv Compact Plus Bouquet E36 + French 11 Bouquet E36 + HDPVR Access Service,COMPLE36 + FRN11E36 +  HDPVRE36,"_46,800"
+,,,
+,,,
+DStv,DStv Compact Bouquet E36 + Asian Add-on Bouquet E36 ,COMPE36 + ASIADDE36 ,"_33,900"
+DStv,DStv Compact Bouquet E36 + Asian Add-on Bouquet E36 + HDPVR Access Service,COMPE36 + ASIADDE36 + HDPVRE36,"_39,900"
+DStv,DStv Compact Bouquet E36 + French Touch Bouquet E36 ,COMPE36 + FRN7E36 ,"_26,000"
+DStv,DStv Compact Bouquet E36 + French Touch Bouquet E36 + HDPVR Access Service,COMPE36 + FRN7E36 +  HDPVRE36,"_32,000"
+DStv,DStv Compact Bouquet E36 + French 11 Bouquet E36 ,COMPE36 + FRN11E36 ,"_29,800"
+DStv,DStv Compact Bouquet E36 + French 11 Bouquet E36 + HDPVR Access Service,COMPE36 + FRN11E36 +  HDPVRE36,"_35,800"
+,,,
+,,,
+DStv,Asian Bouquet E36,ASIAE36,"_14,900"
+DStv,Asian Add-on Bouquet E36,ASIADDE36,"_14,900"
+DStv,French Touch Bouquet E36,FRN7E36,"_7,000"
+DStv,French 11 Bouquet E36,FRN11E36,"_10,800"
+DStv,French Plus Bouquet E36,FRN15E36,"_24,500"
+DStv,HDPVR Access Service,HDPVRE36,
+DStv,DStv MOVIESE36 - Movie Bundle Add-on,MOVIESE36,"_3,500"
+DStv,DStv MOVIESCOMPLE36 - Compact Plus Movie Bundle Add-on ,MOVIESCOMPLE36,"_3,500"
+,,,
+,,,
+Gotv,GOtv Supa Plus Bouquet,GOTVSUPAPLUS,"_16,800"
+Gotv,GOtv Supa Bouquet,GOTVSUPA,"_11,400"
+Gotv,GOtv Max Bouquet,GOTVMAX,"_8,500"
+Gotv,GOtv Jolli Bouquet,GOtvNJ2,"_5,800"
+Gotv,GOtv Jinja Bouquet,GOtvNJ1,"_3,900"
+Gotv,GOtv Smallie,GOLITE,"_1,900"
+Gotv,GOtv Smallie IP3,GOLITE,"_5,100"
+Gotv,GOtv Smallie IP12,GOLITE,"_15,000"
+,,,
+,,,
+DStv,DStv Stream Yanga,YANGA OTT,"_6,000"
+DStv,DStv Stream Confam,CONFAM  OTT,"_11,000"
+DStv,DStv Stream Compact,COMPACT OTT,"_19,000"
+DStv,DStv Stream Compact Plus,COMPACTPLS OTT,"_30,000"
+DStv,DStv Stream Premium,PREMIUM OTT ,"_44,500"
